@@ -83,7 +83,7 @@
 
 .primary-btn {
 	display: inline-block;
-	@include gradient2(to right, $primary-color 0%, $primary-color2 51%, $primary-color 100%);
+	@include gradient2(to right, #a1484a 0%, #623839 51%, #a1484a 100%);
     background-size: 200% auto;
     padding: 0px 38px;
     color: #fff;
