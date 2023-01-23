@@ -89,7 +89,7 @@ button:focus {
 /*---------------------------------------------------- */
 /*----------------------------------------------------*/
 .section_gap {
-  padding: 50px 0; }
+  padding: 35px 0; }
   @media (max-width: 991px) {
     .section_gap {
       padding: 60px 0; } }
@@ -780,7 +780,8 @@ button:focus {
       padding-left: 0; } }
   .course_details_left .course_list li {
     list-style: none;
-    margin-bottom: 20px; }
+    margin-top: 10px; 
+    margin-bottom: 10px; }
     .course_details_left .course_list li .primary-btn {
       background: #f9f9f9;
       color: #777777;
